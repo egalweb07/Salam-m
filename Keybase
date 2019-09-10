@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am egalweb07 on github.
+  * I am egalweb (https://keybase.io/egalweb) on keybase.
+  * I have a public key ASCw6SiD4mHiOqQlV-L4HVVTUKhAhgVMyjn-dQ-UAKsQgwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b0e92883e261e23aa42557e2f81d555350a84086054cca39fe750f9400ab10830a",
+      "host": "keybase.io",
+      "kid": "0120b0e92883e261e23aa42557e2f81d555350a84086054cca39fe750f9400ab10830a",
+      "uid": "39c828cc401c2624ad1fd4f90c4dc519",
+      "username": "egalweb"
+    },
+    "merkle_root": {
+      "ctime": 1568137092,
+      "hash": "fb2d67d1dd8be1b8c5ff243e697bb7f7c18e6b30e0856f6e1a45944ed6acb78bc958e5b68b65c0ddaa272084565bd0b1c0ed3f30083d2ffc09748de2f0eaa8de",
+      "hash_meta": "c12b9ff35298bbeb3d947dc0d2bf843377499c86221d43d7d1a046e4230859c5",
+      "seqno": 6478090
+    },
+    "service": {
+      "entropy": "zsqFOASpyRd6FeRkK7XRg1B9",
+      "name": "github",
+      "username": "egalweb07"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568137100,
+  "expire_in": 504576000,
+  "prev": "9c08ac2db2ac5b112de11ffa3daa4aaa1c70f31dbd70c18af4431f6738d51152",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASCw6SiD4mHiOqQlV-L4HVVTUKhAhgVMyjn-dQ-UAKsQgwo](https://keybase.io/egalweb), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsOkog+Jh4jqkJVfi+B1VU1CoQIYFTMo5/nUPlACrEIMKp3BheWxvYWTESpcCBcQgnAisLbKsWxEt4R/6PapKqhxw8x29cMGK9EMfZzjVEVLEIOSnskBTopjsQRRTJqOX/ofEmdDTDZXzE0axqJGcIgS7AgHCo3NpZ8RAQiKYdgAsFM1ZA7aYfeFNBFCdMKBPYbvnYuiye5eekGxaZ9lcP1xvYTo6/VPNOESyNOxpvJN/ERs/JjCImEnHAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAcZ11689BI8u64mEl1O6uck5bLsZn/1HCq5yxlWr82No3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/egalweb
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id egalweb
+```
